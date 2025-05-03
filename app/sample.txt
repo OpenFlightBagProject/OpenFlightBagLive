@@ -1,0 +1,8 @@
+This is a sample text file for testing the Filesystem HAL.
+It contains some basic information that can be loaded by the application.
+
+The Filesystem HAL provides platform-specific file access capabilities
+through a common interface, making it easier to work with files across
+different platforms (Android, iOS, desktop, web).
+
+OpenFlightBag - File Access Test
